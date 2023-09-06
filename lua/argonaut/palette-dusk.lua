@@ -1,6 +1,6 @@
 ---@class Palette
 return {
-  bg = "#090909",
+  bg = "#0F0F30",
   fg = "#CDCCDB",
   selection = "#44475A",
   comment = "#6272A4",
@@ -18,10 +18,10 @@ return {
   bright_magenta = "#7F3FBF",
   bright_cyan = "#25BBFF",
   bright_white = "#FFFFFF",
-  menu = "#1A1A1A",
-  visual = "#3E4455",
-  gutter_fg = "#4B5565",
-  nontext = "#3B5070",
+  menu = "#25256C",
+  visual = "#303080",
+  gutter_fg = "#4242AA",
+  nontext = "#5E5EB8",
   white = "#EFEFEF",
   black = "#090909",
 }
